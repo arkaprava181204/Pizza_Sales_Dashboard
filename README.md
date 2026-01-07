@@ -36,7 +36,7 @@ This project showcases an interactive Pizza Sales Dashboard developed using Micr
 **SQL Validation:-**
 
 1.All KPIs and metrics are cross-verified using SQL queries in SSMS to ensure accuracy and data integrity
-SQL Query Document:- [SQL Queries](./pdf/SQL Queries in SSMS).
+SQL Query Document:- [SQL Queries](./pdf/SQL_Queries_in_SSMS.pdf).
 
 **🛠 Tools & Technologies:-**
 
