@@ -43,7 +43,7 @@ SQL Validation:-
 
 2.SQL Server Management Studio (SSMS) – Querying and validating data
 
-3.CSV Dataset (2015) – Raw pizza sales data
+3.CSV Dataset (2015) – [Dataset](./Dataset)
 
 🎯 Learning Outcomes
 
