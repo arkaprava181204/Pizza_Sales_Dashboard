@@ -45,7 +45,7 @@ SQL Query Document:- [SQL Queries](./SQL_Queries_in_SSMS.pdf).
 
 2.SQL Server Management Studio (SSMS) – Querying and validating data
 
-3.CSV Dataset (2015) – [Dataset](./pizza_sales excel file.xlsx).
+3.CSV Dataset (2015) – [Dataset](./pizza_sales.csv).
 
 **🎯 Learning Outcomes:-**
 
