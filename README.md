@@ -47,6 +47,8 @@ SQL Query Document:- [SQL Queries](./SQL_Queries_in_SSMS.pdf).
 
 3.CSV Dataset (2015) – [Dataset](./pizza_sales.csv).
 
+4. Problem Statement - [Problem Statement](./Problem_Statement(KPI's_Requirement).pdf) 
+
 **🎯 Learning Outcomes:-**
 
 Hands-on experience in data cleaning and transformation
